@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Vishwakarma</h1>
-<h3 align="center">🎓 I am an IIT Ropar Graduate passionate about building scalable applications and exploring cutting-edge technologies with experience in building production-grade applications using Golang, Python, Javascript, Node.js, Express.js, FastAPI, Git and GitHub, Docker, AWS, OpenAI, vector databases, MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, Kafka, RabbitMQ and Bullmq and more. I thrive on solving challenging problems and contributing to impactful projects. Let’s build something amazing together! 🚀 🚀</h3>
+<h3 align="center">🎓 I am an IIT Ropar Graduate passionate about building scalable applications and exploring cutting-edge technologies with experience in building production-grade applications using Golang, Python, Javascript, Node.js, Express.js, FastAPI, Git and GitHub, Docker, AWS, OpenAI, vector databases, MySQL, PostgreSQL, MongoDB, DynamoDB, Redis, Kafka, RabbitMQ and Bullmq and more. I thrive on solving challenging problems and contributing to impactful projects. Let’s build something amazing together! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank-vishwakarma&label=Profile%20views&color=0e75b6&style=flat" alt="shashank-vishwakarma" /> </p>
 
