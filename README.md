@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank-vishwakarma" alt="shashank-vishwakarma" /></a> </p>
 
-- 🔭 I’m currently working on projects [CodePulse](https://github.com/Shashank-Vishwakarma/code-pulse-backend) and [RedSpace](https://github.com/Shashank-Vishwakarma/RedSpace)
+- 🔭 I’m currently working on projects - [RedSpace](https://github.com/Shashank-Vishwakarma/RedSpace)
 
 - 🌱 I’m currently learning **Kubernetes and Generative AI**
 
