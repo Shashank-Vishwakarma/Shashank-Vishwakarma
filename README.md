@@ -29,5 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank-vishwakarma&show_icons=true&locale=en" alt="shashank-vishwakarma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-vishwakarma&" alt="shashank-vishwakarma" /></p>
-
-[![Peerlist](https://github-readme-badge.peerlist.io/api/shashank23)](https://peerlist.io/shashank23)
